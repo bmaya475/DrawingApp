@@ -79,3 +79,4 @@ socket.on('new line', function(data){
 	pen.lineTo(data.toX, data.toY);
 	pen.stroke();
 });
+//drawing app
